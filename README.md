@@ -14,6 +14,6 @@ https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js
 3.ติดตั้ง packages <br><br>
 **`npm install discord.js @discordjs/opus @ksoft/api ascii-table canvacord canvas colors common-tags discord.js enmap erela.js erela.js-deezer erela.js-facebook erela.js-spotify lyrics-finder ms radio-browser `**<br><br>
 4.แก้ไข Token OwnerID ได้ที่ botconfig/config.json<br><br>
-5.ดาวน์โหลด Lavalink มาใส่ไว้ที่รวมไฟล์<br><br>
+5.ดาวน์โหลด [Download Lavalink](https://cdn.discordapp.com/attachments/798196676405755905/827174915714711572/Lavalink.jar) มาใส่ไว้ที่รวมไฟล์<br><br>
 6.รันบอท เปิด start.bat<br><br>
 
