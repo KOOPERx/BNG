@@ -1,2 +1,4 @@
 # BNG
-SRC BNG BOT 
+SRC BNG BOT Discord.js V12
+
+website : www.bngbot.xyz
